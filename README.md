@@ -1,6 +1,10 @@
 # AI Product Manager NanoDegree
 This repository contains the projects submitted as a part of NanoDegree program offered by Udacity for "AI Product Manager".
 
+<p style="text-align: center;">
+  <img src="https://raw.githubusercontent.com/gohil-jay/AI-Product-Manager-NanoDegree/main/AI%20Product%20Manager%20Nanodegree.jpg" alt="Nanodegree Certifcate">
+</p>
+
 # Project 1 : Create a Medical Image Annotation Job
 
 Your goal, as a product owner is to build a product that helps doctors quickly identify cases of pneumonia in children. You'll want to build a classification system that
